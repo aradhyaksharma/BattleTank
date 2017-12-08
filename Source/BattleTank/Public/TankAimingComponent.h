@@ -1,7 +1,4 @@
-// Copyright EmbraceIT Ltd.
-
 #pragma once
-
 #include "Components/ActorComponent.h"
 #include "TankAimingComponent.generated.h"
 

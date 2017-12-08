@@ -1,4 +1,3 @@
-// Copyright EmbraceIT Ltd.
 
 #pragma once
 

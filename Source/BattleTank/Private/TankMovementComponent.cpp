@@ -1,4 +1,3 @@
-// Copyright EmbraceIT Ltd.
 
 #include "BattleTank.h"
 #include "TankTrack.h"
